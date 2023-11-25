@@ -1,2 +1,5 @@
-# edge-xfce4-terminal-
-Edge XFCE4 Terminal theme. Based on https://github.com/sainnhe/edge
+# Edge XFCE4 Terminal
+Copy to `/usr/share/xfce4/terminal/colorschemes/` or `$HOME/.local/share/xfce4/terminal/colorschemes/`
+
+# Credits
+- https://github.com/sainnhe/edge
